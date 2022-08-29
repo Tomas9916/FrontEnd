@@ -1,0 +1,10 @@
+{
+	"nombre": "Tomás",
+	"apellido": "Avalis",
+	"edad": "23",
+	"gustos": {
+		"color": "verde",
+		"comida": "milanesas",
+		"bebida": "vino"
+	}
+}
